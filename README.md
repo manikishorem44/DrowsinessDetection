@@ -6,7 +6,7 @@ We have used UTA-RLDD dataset for our experiment. We have collected 3840 frames 
 
 https://sites.google.com/view/utarldd/home
 
-#Instructions to run code:
+# Instructions to run code:
 Once the data is ready, Please execute the below Jupiter notebooks in the below order, 
 1. 	Noramalization.ipynb
 2.	Feature_Extraction.ipynb
