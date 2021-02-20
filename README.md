@@ -8,9 +8,9 @@ https://sites.google.com/view/utarldd/home
 
 #Instructions to run code:
 Once the data is ready, Please execute the below Jupiter notebooks in the below order, 
-> Noramalization.ipynb
-> Feature_Extraction.ipynb
-> CNN_&_LSTM.ipynb
-> LiveDemo.ipynb
+1. 	Noramalization.ipynb
+2.	Feature_Extraction.ipynb
+3. 	CNN_&_LSTM.ipynb
+4.	LiveDemo.ipynb
 
 
