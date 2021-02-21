@@ -1,5 +1,5 @@
 # DrowsinessDetection
-Driver's drowsiness is the main reason for numerous accidents and identifying the drowsiness and alerting the driver will help in averting such risks. So in this project we have used facial expressions of the drivers for altering them. We have implemented logistic Regression, CNN and LSTM to figure out which has better performance.
+Driver's drowsiness is the main reason for numerous accidents, identifying the drowsiness and alerting the driver will help in averting such risks. So in this project we have used facial expressions of the drivers for altering when they are drowsy. We have implemented logistic Regression, CNN and LSTM to figure out the algorithm that gives the highest accuracy.
 
 # DataSet Used:
 We have used UTA-RLDD dataset for our experiment. We have collected 3840 frames of 8 different participants, consisting of frames related to alert and drowsiness in equal ratio. We then used this data for training our models.
